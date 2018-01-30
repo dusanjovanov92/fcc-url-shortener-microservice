@@ -1,0 +1,18 @@
+body {
+  background-color: darkgreen;
+  color: #eee;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.example-button {
+  cursor: pointer;
+  background-color: dodgerblue;
+  color: white;
+  border: 0;
+  padding: 10px 15px;
+}
+
+.example-button:hover {
+  background-color: white;
+  color: black;
+}
